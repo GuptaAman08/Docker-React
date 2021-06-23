@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My First React App
+          Feature Branch Changes
         </p>
       </header>
     </div>
